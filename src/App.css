@@ -1,0 +1,44 @@
+.App {
+  margin: 0 40px 0 40px;
+  /* box-sizing: border-box; */
+}
+
+.App-logo {
+  height: 40px;
+  pointer-events: none;
+}
+
+.App-header {
+  display: flex;
+  padding: 10px 0 0 40px;
+  /* border: 1px solid black; */
+  height: 59px;
+}
+
+.Intro {
+  /* margin: 0 auto;
+  max-width: 1200px; */
+  display: flex;
+  /* border: 1px solid black; */
+  height: 257px;
+}
+
+.Intro img {
+  border-radius: 5px;
+}
+
+h1 {
+  font-size: 30px;
+  padding: 40px 0 40px 0;
+}
+
+article img {
+  height: 130px;
+  width: 130px;
+  border-radius: 5px;
+  object-fit: cover;
+}
+
+/* .menu {
+  
+} */
